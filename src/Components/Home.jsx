@@ -8,6 +8,7 @@ function Home (){
         <Button name ="login" title ="Click here to Login"/>
         <Button name ="Register" title ="Click here to register"/>
         <Button name ="Logout" title ="Click here to Logout"/>
+        {/* <Button name ={1}/> */}
 
     </div>
   )
