@@ -1,4 +1,5 @@
 import React from 'react'
+import PropTypes from 'prop-types'
 
 const Button = (props) => {
  const {name,title} = props
@@ -16,5 +17,8 @@ const Button = (props) => {
 // Button.defaultProps = {
 //     name: "Default"
 // }
+Button.propTypes = {
+  name: PropTypes.string
+}
 
 export default Button
