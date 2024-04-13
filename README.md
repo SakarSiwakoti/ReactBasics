@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 # ReactBasics_Day2
 # ReactBasics_Day2
 # ReactBasic_Day2
+# ReactBasics
